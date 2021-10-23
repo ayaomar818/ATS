@@ -1,0 +1,49 @@
+
+@media  only screen and (min-device-width: 768px) 
+{
+
+  .bord{
+   max-width: 520px;
+    padding: 1rem;
+    position: relative;
+ 
+   background: linear-gradient(to right, red, purple);
+    padding: 3px;
+    margin-left: 25%;
+    margin-top: 7%;
+  }
+  
+  .form-container {
+      padding: 5%;
+      background: #ffffff;             
+      max-width: 520px;
+      margin: auto;
+
+    }
+
+}
+
+
+h1, p 
+{
+  text-align: center;
+}
+
+
+input, textarea , button
+{
+  width: 100%;
+}  
+  
+textarea
+{
+  height: 200px;
+}
+
+
+
+
+
+.nav2{
+  position: unset !important;
+}
